@@ -1,11 +1,10 @@
-# mi-band-2-connect
-Android example application to connect with Mi Band 2 and read and evaluate basic Data.
 
-This basic android application explains the steps to
-1. Turn on Bluetooth and search for Mi Band 2 devices in range
-2. Connect to one of the listed devices
-3. Authenticate Mi Band 2
-4. Fetch and display Device information data
-5. Enable notifications for Heart rate, Battery Status etc
+# Extraccion de los datos de la Xiomi mi Band 2
+Aplicación de Android para conectar con Mi Band 2 y leer y evaluar datos básicos de la pulsera.
 
-P.S Any contributions in the Application are welcome.
+Esta aplicación básica de Android explica los pasos para:
+1. Encienda Bluetooth y busque dispositivos Mi Band 2 dentro del rango
+2. Conectarse a uno de los dispositivos listados
+3. Autenticar Mi Banda 2
+4. Obtener y mostrar datos de información del dispositivo
+5. Habilitar las notificaciones de frecuencia cardíaca, estado de la batería, pasos,etc.
